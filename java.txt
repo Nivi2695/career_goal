@@ -1,0 +1,6 @@
+welcome to java
+
+1.inheritance
+2.interface
+3.polymorphism
+4.encapsulation
