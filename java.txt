@@ -4,3 +4,9 @@ welcome to java
 2.interface
 3.polymorphism
 4.encapsulation
+
+5.abstraction
+
+
+
+thank you:)
